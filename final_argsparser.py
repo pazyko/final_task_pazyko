@@ -1,0 +1,10 @@
+import argparse
+
+parser = argparse.ArgumentParser()
+
+group = parser.add_mutually_exclusive_group()
+group.add_argument("-m", "--manager", action="store_true")
+group.add_argument("-s", "--salesman", action="store_true")
+
+args = parser.parse_args()
+print(args)

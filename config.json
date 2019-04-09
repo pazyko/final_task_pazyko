@@ -1,0 +1,44 @@
+{
+  "STAFF": [
+    [
+      "ALEXEY",
+      "MANAGER"
+    ],
+    [
+      "VLADIMIR",
+      "SALESMAN"
+    ],
+    [
+      "OLEG",
+      "SALESMAN"
+    ]
+  ],
+  "COFFEE_PRICE": [
+    [
+      "CAPPUCCINO",
+      "5"
+    ],
+    [
+      "MOCCACHINO",
+      "6"
+    ],
+    [
+      "AMERICANO",
+      "4"
+    ]
+  ],
+  "ADDITIVE_PRICE": [
+    [
+      "CINNAMON",
+      "1.1"
+    ],
+    [
+      "SUGAR",
+      "0.11"
+    ],
+    [
+      "MILK",
+      "0.99"
+    ]
+  ]
+}
