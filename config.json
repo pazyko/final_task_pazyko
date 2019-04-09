@@ -1,5 +1,5 @@
 {
-  "STAFF": [
+  "EMPLOYEE": [
     [
       "ALEXEY",
       "MANAGER"
@@ -11,23 +11,27 @@
     [
       "OLEG",
       "SALESMAN"
+    ],
+    [
+      "SVETIK",
+      "SALESMAN"
     ]
   ],
   "COFFEE_PRICE": [
     [
       "CAPPUCCINO",
-      "5"
+      "4"
     ],
     [
       "MOCCACHINO",
-      "6"
+      "5"
     ],
     [
       "AMERICANO",
-      "4"
+      "3"
     ]
   ],
-  "ADDITIVE_PRICE": [
+  "ADDONS_PRICE": [
     [
       "CINNAMON",
       "1.1"
