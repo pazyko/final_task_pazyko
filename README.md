@@ -1,6 +1,8 @@
 # final_task_pazyko
 Coffe For Me project
 
+Launch project through the main.py module.
+
 Accept the following commandline arguments:
 
  1.User name.
