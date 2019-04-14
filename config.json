@@ -1,5 +1,5 @@
 {
-  "EMPLOYEE": [
+  "STAFF": [
     [
       "ALEXEY",
       "MANAGER"
@@ -31,7 +31,7 @@
       "3"
     ]
   ],
-  "ADDONS_PRICE": [
+  "ADDITIVE_PRICE": [
     [
       "CINNAMON",
       "1.1"
